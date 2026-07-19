@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-07-19T19:17:02.162Z",
+  "summary": {
+    "files": 120,
+    "htmlFiles": 10,
+    "images": 63,
+    "fonts": 2,
+    "forms": 10,
+    "formFields": 77,
+    "missingRoutes": 0,
+    "externalAssetReferences": 0,
+    "brokenLocalReferences": 0,
+    "filesWithRuntimeServiceReferences": 0,
+    "seoIssues": 0
+  },
+  "missingRoutes": [],
+  "externalAssetReferences": [],
+  "brokenLocalReferences": [],
+  "filesWithRuntimeServiceReferences": [],
+  "seoIssues": []
+}
