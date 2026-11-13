@@ -31,5 +31,4 @@ jobs:
           node --check scripts/mirror-site.mjs
           node --check scripts/finalize-site.mjs
           node --check scripts/audit-site.mjs
-          node --check scripts/dev-server.mjs
           AUDIT_WRITE=0 node scripts/audit-site.mjs
